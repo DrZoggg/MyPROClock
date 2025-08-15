@@ -1,1 +1,10 @@
-   
+Modern lifestyles increasingly disrupt circadian rhythms, and mounting evidence links circadian misalignment to increased ASCVD risk. Yet, current research remains specialized yet fragmented, lacking an integrative framework. Studies delve deeply into specific aspects but fail to provide a systematic, closed-loop investigation that bridges clinical observations, biological mechanistic insights, and translational applications. 
+
+Importantly, intrinsic circadian disruption is inherently a challenging and abstract biological concept to define and measure, lacking universally accepted markers. Traditional studies typically infer circadian disruption indirectly through external factors such as shift work, jet lag, or disturbed sleep, which are imprecise proxies. At the molecular level, research has primarily focused on a limited set of canonical circadian genes, exploring their individual roles in disease mechanisms. Despite these insights, a clear definition and comprehensive molecular characterization of endogenous circadian homeostasis remain elusive. Indeed, it is challenging for a few genes alone to encapsulate a complex biological state, let alone fully capture endogenous circadian misalignment.
+
+Epidemiological cohort studies provide statistical correlations between circadian misalignment and ASCVD risk, yet these associations remain indirect and offer limited mechanistic insight. Meanwhile, animal models, whether relying on genetic knockouts or circadian disruption paradigms, have elucidated the molecular interplay between circadian and ASCVD. However, they fail to fully capture human pathophysiology. 
+
+What is missing between endogenous circadian disruption and cardiovascular disease?
+answer: a mechanistic bridge, a translational approach that systematically deciphers how circadian misalignment drives ASCVD progression trajectories, shapes broader clinical phenotypes, and governs disease manifestations, while also unraveling key biological mechanisms that how circadian disruption remodels the atherosclerotic plaque microenvironment. 
+
+This is a robust and scalable system for detecting and quantifying individual-specific endogenous circadian disruption in ASCVD: MyPROClock (Molecular dYsregulated PROfiles of Circadian clock): 
