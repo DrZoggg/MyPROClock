@@ -7,4 +7,4 @@ Epidemiological cohort studies provide statistical correlations between circadia
 What is missing between endogenous circadian disruption and cardiovascular disease?
 answer: a mechanistic bridge, a translational approach that systematically deciphers how circadian misalignment drives ASCVD progression trajectories, shapes broader clinical phenotypes, and governs disease manifestations, while also unraveling key biological mechanisms that how circadian disruption remodels the atherosclerotic plaque microenvironment. 
 
-This is a robust and scalable system for detecting and quantifying individual-specific endogenous circadian disruption in ASCVD: MyPROClock (Molecular dYsregulated PROfiles of Circadian clock): 
+This is a robust and scalable system for detecting and quantifying individual-specific endogenous circadian disruption in ASCVD: MyPROClock (Molecular dYsregulated PROfiles of Circadian clock).
